@@ -1,5 +1,4 @@
 #!/bin/sh
-#
 # find-webshells.sh
 # Scan for potentially malicious webshells in PHP/JSP/ASP/Shell scripts.
 # Version: 1.1.0
